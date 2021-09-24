@@ -1,6 +1,6 @@
 """
 File: higherlower.py
-Author: Rachel
+Author: Rachel & Brad
 Purpose: Higher Lower Game
 """
 import random
