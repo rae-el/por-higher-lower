@@ -2,3 +2,5 @@ Portfolio1A: Higher Lower Game
 Contributors:
 Rachel White
 Bradley Lumsden
+Tristan Rogers
+Canaan Mack
